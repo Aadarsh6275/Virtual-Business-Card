@@ -3,7 +3,7 @@
 This project is a simple virtual business card created using HTML and CSS. It serves as a digital representation of your identity, similar to a printed business card, and includes your name, title, profile image, and contact links.
 
 ## Project Structure
-/Virtual-Business-Card │ ├── business-card.html ├── styles.css └── README.md
+/Virtual-Business-Card │ ├── index.html ├── style.css └── README.md
 
 ## Features
 
